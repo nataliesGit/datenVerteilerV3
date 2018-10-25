@@ -1,0 +1,27 @@
+
+
+
+R:\ag\bs1772-tauschbs1772fs1473\Daten\Abteilung_TS\03 Prüfungen\AP Technische Zeichner\00-So\00-So PA2 und PA3 Angabe
+
+\\mschool-ad.muenchen.musin.de\SPUV\ag\bs1772-tauschbs1772fs1473\Daten\Abteilung_TS\03 Prüfungen\AP Technische Zeichner\00-So\00-So PA2 und PA3 Angabe
+
+
+copy to:
+\\sc029903\SPUV\home_schueler\60.pruefung\PruefungsDaten_06.06.2018\
+
+
+Der Aufruf funktioniert
+xcopy /e /h /Y "\\mschool-ad.muenchen.musin.de\SPUV\ag\bs1772-tauschbs1772fs1473\Daten\Abteilung_TS\03 Prüfungen\AP Technische Zeichner\00-So\00-So PA2 und PA3 Angabe" "\\sc029903\SPUV\home_schueler\60.pruefung\PruefungsDaten_06.06.2018\"
+
+
+xcopy /e /h /Y "\\mschool-ad.muenchen.musin.de\SPUV\ag\bs1772-tauschbs1772fs1473\Daten\Abteilung_TS\03 Prüfungen\AP Technische Zeichner\00-So\00-So PA2 und PA3 Angabe" \\sc029903\SPUV\home_schueler\60.pruefung\PruefungsDaten_06.06.2018\
+
+
+
+xcopy /e /h /Y "\\mschool-ad.muenchen.musin.de\support\Hyper-V_Test\test\Neuer virtueller Computer \\sc029903\SPUV\home_schueler\60.pruefung\PruefungsDaten_06.06.2018\
+
+funktioniert
+xcopy /e /h /Y "\\mschool-ad.muenchen.musin.de\support\austausch_support\Hyper-V_Test\test\Neuer virtueller Computer" \\sc029903\SPUV\home_schueler\60.pruefung\PruefungsDaten_06.06.2018\
+
+
+xcopy /e /h /Y "R:\austausch_support\Hyper-V_Test\test\Neuer virtueller Computer" \\sc029903\SPUV\home_schueler\60.pruefung\PruefungsDaten_06.06.2018\

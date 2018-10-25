@@ -1,0 +1,4 @@
+%APPDATA%\Microsoft\Windows\Recent\AutomaticDestinations
+%APPDATA%\Microsoft\Windows\Recent\CustomDestinations
+%APPDATA%\Microsoft\Windows\Recent Items
+
